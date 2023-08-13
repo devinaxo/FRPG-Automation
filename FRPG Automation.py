@@ -23,7 +23,7 @@ def logTime():
     return datetime.now().strftime('%H:%M:%S')
 
 
-# Login to the game
+#Login to the game
 #browser.get(login)
 #time.sleep(1)
 #browser.find_element(By.NAME, "username").send_keys(user)  # enter username
